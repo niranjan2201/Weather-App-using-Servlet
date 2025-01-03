@@ -47,7 +47,7 @@ public class WeatherServlet extends HttpServlet {
 		
 		
 				//API Key
-				String apiKey = "e32d7c4098445344c825909b9d8cee3a";
+				String apiKey = "your api key ";
 				// Get the city from the form input
 		        String city = request.getParameter("city"); 
 		
